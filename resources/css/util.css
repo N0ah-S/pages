@@ -1,0 +1,34 @@
+.floatRight {
+  float: right;
+  margin-left: 20px
+}
+
+.floatLeft {
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px
+}
+
+.leftBoundArticle {
+  width: 60%;
+  text-align: left;
+  margin-left: 2%;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+.question {
+  font-style:italic;
+}
+.answer {
+  /* TODO: change with color scheme(dark/light)? */
+  color: lightblue;
+}
+
+span a, span a:hover, span a:visited {
+  /*text-decoration: none;*/
+  font-weight: bold;
+  color: lightblue;
+}
